@@ -1,4 +1,4 @@
-[{"alumno":"Pedro","nota":9.09,"ranking":10},
+[{"alumno":"Mario","nota":9.09,"ranking":10},
   {"alumno":"Juan","nota":4,"ranking":150},
   {"alumno":"Pepe","nota":4.5,"ranking":30},
   {"alumno":"Jaime","nota":5.6,"ranking":20},
@@ -6,5 +6,5 @@
   {"alumno":"Ordoño","nota":8,"ranking":90},
   {"alumno":"Andrea","nota":2,"ranking":70},
   {"alumno":"Clara","nota":10,"ranking":44},
-  {"alumno":"Eva","nota":4.2,"ranking":55}
+  {"alumno":"Río","nota":4.2,"ranking":55}
 ]
