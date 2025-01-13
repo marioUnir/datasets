@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {"id": "Mario", "group": 1},
+    {"id": "Marta", "group": 2},
+    {"id": "Cristina", "group": 2},
+    {"id": "Leonor", "group": 2},
+    {"id": "Pepa", "group": 2},
+    {"id": "Juana", "group": 2},
+    {"id": "Lola", "group": 2},
+    {"id": "Ana", "group": 2},
+    {"id": "Pepe", "group": 3},
+    {"id": "Juan", "group": 3},
+    {"id": "Jose", "group": 3},
+    {"id": "Alberto", "group": 3},
+    {"id": "Javier", "group": 3},
+    {"id": "Ivan", "group": 3},
+    {"id": "Jorge", "group": 3}
+  ],
+  "links": [
+    {"source": "Mario", "target": "Marta", "value": 20},
+    {"source": "Mario", "target": "Cristina", "value": 20},
+    {"source": "Mario", "target": "Leonor", "value": 20},
+    {"source": "Mario", "target": "Pepa", "value": 20},
+    {"source": "Mario", "target": "Juana", "value": 20},
+    {"source": "Mario", "target": "Lola", "value": 20},
+    {"source": "Mario", "target": "Ana", "value": 20},
+    {"source": "Mario", "target": "Pepe", "value": 20},
+    {"source": "Mario", "target": "Juan", "value": 20},
+    {"source": "Mario", "target": "Jose", "value": 20},
+    {"source": "Mario", "target": "Alberto", "value": 20},
+    {"source": "Mario", "target": "Javier", "value": 20},
+    {"source": "Mario", "target": "Ivan", "value": 20},
+    {"source": "Mario", "target": "Jorge", "value": 20},
+    {"source": "Marta", "target": "Cristina", "value": 20},
+    {"source": "Marta", "target": "Leonor", "value": 20},
+    {"source": "Marta", "target": "Pepa", "value": 20},
+    {"source": "Cristina", "target": "Lola", "value": 20},
+    {"source": "Marta", "target": "Juan", "value": 20}
+  ]
+}
