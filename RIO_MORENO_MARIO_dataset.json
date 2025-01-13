@@ -35,6 +35,9 @@
     {"source": "Marta", "target": "Leonor", "value": 20},
     {"source": "Marta", "target": "Pepa", "value": 20},
     {"source": "Cristina", "target": "Lola", "value": 20},
+    {"source": "Pepe", "target": "Jose", "value": 20},
+    {"source": "Pepe", "target": "Alberto", "value": 20},
+    {"source": "Pepe", "target": "Ivan", "value": 20},
     {"source": "Marta", "target": "Juan", "value": 20}
   ]
 }
